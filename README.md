@@ -206,11 +206,11 @@ WQD7006_Machine-learning-of-Malicious-URLs-Detection/
 
 | Name | Student ID |
 |------|------------|
-| YIM WJUN JUN | 24201054 |
+| YIM WEN JUN | 24201054 |
 | RICHIE TEOH | 24088171 |
 | ELMER LEE JIA ZHAO | 24082366 |
 | ANGELINE TAN JIE LIN | 24084444 |
-| NICOLE CHUNG SYN TUNG | 24073625 |
+| MICOLE CHUNG SYN TUNG | 24073625 |
 
 **Institution:** Universiti Malaya  
 **Course:** WQD7006 - Machine Learning
